@@ -1,18 +1,3 @@
-# todo-list-flutter
-> a to-do list application using Flutter 
-
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
-
-### Project requirements
-check the [get started](https://flutter.io/get-started/install/) for more details.
-
-
-```
 MIT License
 
 Copyright (c) 2018 João Freitas
@@ -34,4 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-```
