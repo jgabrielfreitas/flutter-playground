@@ -2,6 +2,7 @@ name: hello_flutter
 description: A new Flutter project.
 
 dependencies:
+  http: <latest_version>
   flutter:
     sdk: flutter
 
